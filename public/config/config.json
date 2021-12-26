@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0a0c3d9412be89cc2edd95f268ef8e75b9325fca",
+  "SCAN_LINK": "https://polygonscan.com/address/0x0a0c3d9412be89cc2edd95f268ef8e75b9325fca",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Meta Orcs",
+  "SYMBOL": "MO",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 1500000000000000000,
+  "DISPLAY_COST": 1.5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/meta-orcs",
+  "SHOW_BACKGROUND": true
+}
